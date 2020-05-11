@@ -57,7 +57,7 @@ def save_data(df, database_filename):
         nothing - saves the database file to system
     '''
     engine = create_engine('sqlite:///{}'.format(database_filename))
-    df.to_sql('categories.db', engine, index=False, if_exists='replace')
+    df.to_sql('categories', engine, index=False, if_exists='replace')
 
 
 def main():
