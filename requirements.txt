@@ -27,7 +27,7 @@ dnspython==1.16.0
 docutils==0.14
 entrypoints==0.2.3.post1
 et-xmlfile==1.0.1
-eventlet==0.24.1
+eventlet==0.31.0
 Flask==1.1.1
 Flask-Cors==3.0.7
 Flask-Executor==0.9.3
