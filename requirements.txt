@@ -6,7 +6,7 @@ asn1crypto==0.24.0
 astor==0.8.1
 astroid==1.6.0
 attrs==19.3.0
-Babel==2.4.0
+Babel==2.9.1
 beautifulsoup4==4.9.0
 bleach==2.1.2
 Brlapi==0.6.6
