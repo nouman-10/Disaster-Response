@@ -11,7 +11,7 @@ beautifulsoup4==4.9.0
 bleach==2.1.2
 Brlapi==0.6.6
 bs4==0.0.1
-certifi==2019.11.28
+certifi==2022.12.7
 chardet==3.0.4
 click==7.1.1
 cloudpickle==0.5.2
